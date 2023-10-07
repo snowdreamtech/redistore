@@ -1,4 +1,4 @@
-module github.com/boj/redistore
+module github.com/snowdreamtech/redistore
 
 go 1.20
 
